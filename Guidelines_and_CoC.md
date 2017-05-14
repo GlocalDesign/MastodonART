@@ -13,11 +13,10 @@
       <li>No Brand, name or famous trademark squatting</li>
       <li>Zero tolerance for harrassment or bullying — your account will be immediately suspended</li>
       <li>Your admin & moderator is: <a href=https://Mastodon.ART/@Curator>@Curator</a></li>
-      <li>We block or suspend <a href=https://Mastodon.ART/@Curator>other instances</a> that do not adhere to our CoC</li>
+      <li>We block or suspend <a href=https://github.com/GlocalDesign/MastodonART/blob/master/Blocked_Instances.md>other instances</a> that do not adhere to our CoC</li>
       <li>Thank you for simply enjoying a creative community run by someone supporting The Arts.</li>
 
     </ol>
-  </li>
   </ol>
 
 
@@ -30,8 +29,7 @@
       <li>Other instances may not use dumb code, machine learning or AI to analyze any derived text or work for publication or profit without Mastodon.ART user consent. This includes serving ads next to copyright content originally submitted on Mastodon.ART</li>
       <li>Public toots are derived works that are still copyright protected.</li>
       <li>This instance honors noindex/nofollow and search engines are not allowed to index.</li>
-      <li>Your instance will be blocked/suspended for willingly allowing any of the content prohibited by this instance</li>
-
+      <li>Your instance will be <a href=https://github.com/GlocalDesign/MastodonART/blob/master/Blocked_Instances.md>blocked/suspended or silenced</a> for willingly allowing any of the content prohibited by this instance</li>
     </ol>
   </ol>
 

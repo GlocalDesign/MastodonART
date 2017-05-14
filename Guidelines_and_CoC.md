@@ -16,8 +16,6 @@
       <li>Thank you for simply enjoying a creative community run by someone supporting The Arts.</li>
       <li>You may support the community by boosting & positively interacting with everyone.</li>
       <li>Mastodon.ART has a <a href=https://patreon.com/glocal>patreon</a> if you'd like to support the running of YOUR Art community.</li>
-
-    </ol>
   </li>
   </ol>
 

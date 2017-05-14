@@ -4,8 +4,6 @@
 
 <ol>
 <h3>Mastodon.ART'ists</h3>
-    
-    <ol type="a">
 <li>All content is ⓒ each artist & cannot be distributed or used without prior permission by the respective Mastodon.ART artist.</li>
 <li>Mastodon.art doesn't monetize or profit off of your personal information—your information is never for sale.</li>
       <li>Artists, by using this site you understand that it is not a backup or permanent repository for your information, statuses or media — additionally, your media was <u>downsized</u> on original upload & is <b>not exportable</b> at this time upon transferring to new instance</li>
@@ -22,8 +20,6 @@
 
 <ol>
 <h3>The Internet, Blogs, Other Instances & Federation</h3>
-    
-    <ol type="a">
 <li>Federation serves as a browsing & temporary cached link to cited work here on Mastodon.ART</li>
       <li>Other instances may not disseminate others' work or toots without credit and proper licensing.</li>
       <li>Other instances may not use dumb code, machine learning or AI to analyze any derived text or work for publication or profit without Mastodon.ART user consent. This includes serving ads next to copyright content originally submitted on Mastodon.ART</li>

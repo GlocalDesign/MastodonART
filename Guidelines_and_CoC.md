@@ -1,9 +1,10 @@
 <h2>Mastodon.ART CoC Summary</h2>
 
-<p>The following guidelines are not a legal document, and final interpretation is up to the administration of Mastodon.ART; they are here to provide you with an insight into the site & moderation policies:</p>
+<p>Mastodon.ART is a separate & independent instance & is not affiliated with the Mastodon organization. The following guidelines are not a legal document, and final interpretation is up to the administration of Mastodon.ART; they are here to provide you with an insight into the site & moderation policies:</p>
 
 <ol>
 <h3>Mastodon.ART'ists</h3>
+    
 <li>All content is ⓒ each artist & cannot be distributed or used without prior permission by the respective Mastodon.ART artist.</li>
 <li>Mastodon.art doesn't monetize or profit off of your personal information—your information is never for sale.</li>
       <li>Artists, by using this site you understand that it is not a backup or permanent repository for your information, statuses or media — additionally, your media was <u>downsized</u> on original upload & is <b>not exportable</b> at this time upon transferring to new instance</li>
@@ -13,12 +14,17 @@
       <li>Your admin & moderator is: <a href=https://Mastodon.ART/@Curator>@Curator</a></li>
       <li>We block or suspend <a href=https://github.com/GlocalDesign/MastodonART/blob/master/Blocked_Instances.md>other instances</a> that do not adhere to our CoC</li>
       <li>Thank you for simply enjoying a creative community run by someone supporting The Arts.</li>
+      <li>You may support the community by boosting & positively interacting with everyone.</li>
+      <li>Mastodon.ART has a <a href=https://patreon.com/glocal>patreon</a> if you'd like to support the running of YOUR Art community.</li>
 
+    </ol>
+  </li>
   </ol>
 
 
 <ol>
-<h3>The Internet, Blogs, Other Instances & Federation</h3>
+<h3>Other Instances, Federation & Blogs</h3>
+    
 <li>Federation serves as a browsing & temporary cached link to cited work here on Mastodon.ART</li>
       <li>Other instances may not disseminate others' work or toots without credit and proper licensing.</li>
       <li>Other instances may not use dumb code, machine learning or AI to analyze any derived text or work for publication or profit without Mastodon.ART user consent. This includes serving ads next to copyright content originally submitted on Mastodon.ART</li>
@@ -26,7 +32,6 @@
       <li>This instance honors noindex/nofollow and search engines are not allowed to index.</li>
       <li>Your instance will be <a href=https://github.com/GlocalDesign/MastodonART/blob/master/Blocked_Instances.md>blocked/suspended or silenced</a> for willingly allowing any of the content prohibited by this instance</li>
     </ol>
-  </ol>
 
 <h2>Hosting Information</h2>
 
@@ -47,7 +52,7 @@
     <ol>
 <h3>Mastodon.ART Databases</h3>
     <ol type="a">
-		<li>2 separate compose.io databases (PostgreSQL & Redis) protect your statuses and timely pushing/retrieving of federated statuses wit daily backups</li>
+		<li>2 separate compose.io databases (PostgreSQL & Redis) protect your statuses and timely pushing/retrieving of federated statuses with daily backups</li>
     </ol>
   </ol>
   <ol>

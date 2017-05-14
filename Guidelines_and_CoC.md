@@ -16,7 +16,6 @@
       <li>Thank you for simply enjoying a creative community run by someone supporting The Arts.</li>
       <li>You may support the community by boosting & positively interacting with everyone.</li>
       <li>Mastodon.ART has a <a href=https://patreon.com/glocal>patreon</a> if you'd like to support the running of YOUR Art community.</li>
-  </li>
   </ol>
 
 
@@ -44,7 +43,7 @@
     <ol>
 <h3>Mastodon.ART Mastodon Media</h3>
     <ol type="a">
-		<li>Mastodon.ART (curate.mastodon.art) media uses the opensource MINIO.io to serve your images from a separate 4-core/4GB ram cloud server with multiple daily automatic backups.</li>
+		<li>Mastodon.ART (curate.mastodon.art) media uses a self-hosted medais server utilizing the FOSS opensource MINIO.io code to serve your images from a separate 4-core/4GB ram cloud server with multiple daily automatic backups.</li>
     </ol>
   </ol>
     <ol>

@@ -14,7 +14,6 @@
       <li>We block or suspend <a href=https://github.com/GlocalDesign/MastodonART/blob/master/Blocked_Instances.md>other instances</a> that do not adhere to our CoC</li>
       <li>Thank you for simply enjoying a creative community run by someone supporting The Arts.</li>
 
-    </ol>
   </ol>
 
 

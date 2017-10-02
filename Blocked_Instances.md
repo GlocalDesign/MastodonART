@@ -20,5 +20,5 @@
 <h3>Silenced</h3>
 <li>pawoo.net - Silenced w media rejected; loli is legal in Japan so images do not federate to our server but users may interact/toot with known @usernames</li>
 <li>mstdn.jp - Silenced; loli is legal in Japan so images do not federate to our server but users may interact/toot with known @usernames</li>
-<li>birdsite.link - Silenced; if you know a twitter user that participates willingly with this instance while allowing their content to federate then you follow them by knowing their @ address.</li>
+<li>birdsite.link - Silenced; if you know a twitter user that participates willingly with this instance while allowing their content to federate then you may follow them by knowing their @birdsite.link address.</li>
   </ol>

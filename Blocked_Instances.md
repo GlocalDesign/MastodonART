@@ -13,6 +13,7 @@
 <li>sealion.club - Suspended; does not adhere to our CoC</li>
 <li>gs.smuglo.li - Suspended; does not adhere to our CoC</li>
 <li>unsafe.space - Suspended; does not adhere to our CoC</li>
+<li>birdsite.link - Suspended; does not adhere to our CoC</li>
 
   </ol>
 
